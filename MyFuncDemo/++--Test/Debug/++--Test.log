@@ -1,0 +1,2 @@
+﻿  ++--Test.cpp
+D:\MyFuncDemo\++--Test\++--Test.cpp(22,19): error C2105: “++”需要左值
