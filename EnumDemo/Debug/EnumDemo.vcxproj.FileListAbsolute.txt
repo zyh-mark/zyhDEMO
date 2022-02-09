@@ -1,0 +1,2 @@
+D:\MyFuncDemo\EnumDemo\Debug\EnumDemo.exe
+D:\MyFuncDemo\EnumDemo\Debug\EnumDemo.pdb
