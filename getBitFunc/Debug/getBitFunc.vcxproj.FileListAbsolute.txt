@@ -1,0 +1,2 @@
+D:\MyFuncDemo\getBitFunc\Debug\getBitFunc.exe
+D:\MyFuncDemo\getBitFunc\Debug\getBitFunc.pdb

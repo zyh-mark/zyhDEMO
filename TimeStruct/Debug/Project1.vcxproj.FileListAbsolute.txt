@@ -1,0 +1,3 @@
+E:\MyC_Func\Project1\Debug\TimeStruct.exe
+D:\MyFuncDemo\TimeStruct\Debug\TimeStruct.exe
+D:\MyFuncDemo\TimeStruct\Debug\TimeStruct.pdb
